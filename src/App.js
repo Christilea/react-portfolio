@@ -11,28 +11,28 @@ import Footer from './components/Footer'
 
 function App() {
   return (
-   <BrowserRouter>
-   <NavBar />
-   <Switch>
-     <Route exact path='/contact' >
-       <Contact />
+  <BrowserRouter>
+  <NavBar />
+  <Switch>
+    <Route exact path='/contact' >
+      <Contact />
 
-     </Route>
-     <Route exact path='/portfolio' >
-       <Portfolio />
+    </Route>
+    <Route exact path='/portfolio' >
+      <Portfolio />
 
-     </Route>
-     <Route exact path='/' >
-       <Home />
+    </Route>
+    <Route exact path='/' >
+      <Home />
 
-     </Route>
-     <Route path='*' >
-       <NoMatch />
+    </Route>
+    <Route path='*' >
+      <NoMatch />
 
-     </Route>
-   </Switch>
-   <Footer />
-   </BrowserRouter>
+    </Route>
+  </Switch>
+<Footer />
+  </BrowserRouter>
   );
 }
 
