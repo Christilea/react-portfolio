@@ -6,6 +6,8 @@ import Contact from './pages/Contact'
 import NoMatch from './pages/NoMatch'
 import NavBar from './components/NavBar'
 import Portfolio from './pages/Portfolio'
+import Footer from './components/Footer'
+
 
 function App() {
   return (
@@ -29,6 +31,7 @@ function App() {
 
      </Route>
    </Switch>
+   <Footer />
    </BrowserRouter>
   );
 }
