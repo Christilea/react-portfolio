@@ -16,10 +16,10 @@ const projectARR = [
         description: 'password generator'
     },
     {
-        title:'PasswordGenerator', 
-        github: 'https://github.com/Christilea/Random_Password_Generator', 
-        deployed: 'https://christilea.github.io/Random_Password_Generator/',
-        description: 'password generator'
+        title:'Online-Offline Budget Tracker', 
+        github: 'https://github.com/Christilea/Online_Offline-BudgetTracker', 
+        deployed: 'https://aqueous-sierra-82642.herokuapp.com/',
+        description: 'Budget Tracker App'
     },
 ]
     return (
