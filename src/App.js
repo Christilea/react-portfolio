@@ -8,6 +8,19 @@ import NavBar from './components/NavBar'
 import Portfolio from './pages/Portfolio'
 import Footer from './components/Footer'
 
+export default function App() {
+  return (
+    <main className="text-gray-400 bg-gray-900 body-font">
+      <Navbar />
+      <Home/>
+      <Projects />
+      <Footer/>
+      <Portfolio />
+      <Contact />
+    </main>
+  );
+}
+
 
 function App() {
   return (
