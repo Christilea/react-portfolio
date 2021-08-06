@@ -6,21 +6,21 @@ import reportWebVitals from './reportWebVitals';
 
 
 
-ReactDOM.render(
-  <React.StrictMode>
-    <App />
-  </React.StrictMode>,
-  document.getElementById('root')
-);
-const myelement = (
-  <ul>
-    <li>apples</li>
-    <li>Bananas</li>
-    <li>Cherries</li>
-  </ul>
-);
+// ReactDOM.render(
+//   <React.StrictMode>
+//     <App />
+//   </React.StrictMode>,
+//   document.getElementById('root')
+// );
+// const myelement = (
+//   <ul>
+//     <li>apples</li>
+//     <li>Bananas</li>
+//     <li>Cherries</li>
+//   </ul>
+// );
 
-ReactDOM.render(myelement, document.getElementById('root'));
+// ReactDOM.render(myelement, document.getElementById('root'));
 
 
 
