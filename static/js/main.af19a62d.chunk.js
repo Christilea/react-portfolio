@@ -1,2 +1,2 @@
 (this["webpackJsonpreact-portfolio"]=this["webpackJsonpreact-portfolio"]||[]).push([[0],{24:function(n,t,o){},25:function(n,t,o){},35:function(n,t,o){"use strict";o.r(t);var e=o(0),i=(o(20),o(24),o.p,o(25),o(8),o(2),o(1));var c=o(10),p=o(11),r=o(13),u=o(12);e.Component;e.Component;(function(n){n&&n instanceof Function&&o.e(3).then(o.bind(null,36)).then((function(t){var o=t.getCLS,e=t.getFID,i=t.getFCP,c=t.getLCP,p=t.getTTFB;o(n),e(n),i(n),c(n),p(n)}))})()}},[[35,1,2]]]);
-//# sourceMappingURL=main.a84fa14c.chunk.js.map
+//# sourceMappingURL=main.af19a62d.chunk.js.map
