@@ -35,3 +35,4 @@ const projectARR = [
         </div>
     )
 }
+
