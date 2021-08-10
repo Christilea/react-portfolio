@@ -36,3 +36,14 @@
     transform: rotate(360deg);
   }
 }
+.nav {
+  background-color: salmon;
+  display: flex;
+  justify-content: space-around;
+  font-size: 20px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+}
+.homepage {
+  background-color: gray;
+}
