@@ -46,6 +46,7 @@
 }
 .homepage {
   background-color: gray;
+  display:flex;
 }
 .contact {
   background-color: grey;

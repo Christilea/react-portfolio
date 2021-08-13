@@ -5,8 +5,15 @@ export default function Home() {
     return (
         <div className = 'homepage'>
             <img  src = {portfoliophoto} alt = 'headshot'/> 
-        <h1>Christi Lea - Web Developer</h1>
-            <h2>Portfolio 2021</h2>
+            <div>
+                <div>
+                <h1>Christi Lea - Web Developer</h1>
+            <h2>New graduate, August 2021</h2>
+            <p>Please check out some of my work on
+                the Portfolio page link above! 
+            </p>
+                </div>
+            </div>
             <br />
             <br />
             <br />
